@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : IEC320 C7 Receptacle v3
+Recibiendo I.D. de producto de sistema: 
+Nombre de archivo                    : IEC320 C7 Receptacle v3
+Enviando sistema               : unknown
+Versión de preprocesador         : unknown
+Fecha de creación del archivo           : 20190611.153018
+Fecha de creación del modelo          : 20190611.201727
+Unidades                        : INCH
+Escala espacial del modelo            : 1
+Autor                       : unknown
+Organización                 : unknown
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:              14
+  Número de dígitos significativos más alto:                     14
+  Número de dígitos significativos promedio:                10.1926
+  Distancia máxima hasta el origen:                         0.856226
+  Distancia mínima hasta el origen:                        0.0207153
+  Número de dígitos significativos efectivo:               13.979
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+126  Rational B-spline curve                         96        96
+128  Rational B-spline surface                       38        38
+186  Manifold Solid B-rep Object                      2         2
+314  Color definition                                 2         2
+406  Property                                         2         2
+502  Vertex list                                      2         2
+504  Edge entity                                      2         2
+508  Loop entity                                     42        42
+510  Face entity                                     38        38
+514  Shell entity                                     2         2
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie1
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: miércoles, noviembre 13, 2019 13:06:15
+Hora de finalización: miércoles, noviembre 13, 2019 13:06:16
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 01 secs
